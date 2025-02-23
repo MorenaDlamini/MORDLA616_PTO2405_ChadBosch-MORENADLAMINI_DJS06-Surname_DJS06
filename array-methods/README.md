@@ -5,7 +5,7 @@ This project consists of JavaScript functions that perform various operations on
 
 1. Ensure you have [Node.js](https://nodejs.org/) installed on your system.
 2. Clone or download this repository.
-3. Open a terminal and navigate to the project directory.
+3. Open a terminal and navigate to the project directory named array-methods.
 4. Run the following command to execute the script:
    ```sh
    node main.js
