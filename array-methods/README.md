@@ -1,7 +1,7 @@
-# Project Overview
+# 🔃Project Overview
 This project consists of JavaScript functions that perform various operations on arrays of products, provinces, and names. It demonstrates the use of array methods such as `map`, `filter`, `reduce`, and `sort`.
 
-## How to Run the Project in Node.js
+## 👨‍💻How to Run the Project in Node.js
 
 1. Ensure you have [Node.js](https://nodejs.org/) installed on your system.
 2. Clone or download this repository.
@@ -11,7 +11,7 @@ This project consists of JavaScript functions that perform various operations on
    node main.js
    ```
 
-## Folder Structure
+## 📂Folder Structure
 ```
 array-methods/
 │── data.js                # Contains the dataset for products, provinces, and individual names
@@ -22,7 +22,7 @@ array-methods/
 │── README.md               # Documentation for project breakdown and how to execute the code
 ```
 
-## Approach for Exercises
+## 📝Approach for Exercises
 
 ### 1. ForEach Basics
 - Logs each name and each province.
